@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: roboto, sans-serif;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 48px;
+  margin: 0;
+}
+
+.container {
+  width: 80%;
+  max-width: 1000px;
+  margin: 0 10vw;
+  /* margin: 0 auto; */
+}
+
+.intro {
+  background: #23424a;
+  color: white;
+  padding: 10em 0;
+}
+.intro-content {
+  width: 70%;
+  font-size: 21px;
+}
+
+button {
+  background-color: #38cfd9;
+  color: #072a2d;
+  padding: 1em 3em;
+  margin-top: 2em;
+  font-weight: 700;
+  font-size: 21px;
+  border: 0;
+  border-radius: 2em;
+}
